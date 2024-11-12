@@ -20,9 +20,9 @@ fi
 mkdir -p /root/btc && tar -xzvf $FILE -C /root/btc
 
 # step2 
-cp  ./json/genesis.json /root/btc/$FILE
-scp  ./json/coinbase.json /root/btc/$FILE
-scp  ./json/password.txt /root/btc/$FILE
+scp  ./data/genesis.json /root/btc/$FILENAME
+scp  ./data/coinbase.json /root/btc/$FILENAME
+scp  ./data/password.txt /root/btc/$FILENAME
 
 # step 3  init
 cd /root/btc/$FILENAME
