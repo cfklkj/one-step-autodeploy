@@ -1,2 +1,2 @@
-deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ bionic main restricted universe multiverse
-deb-src https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ bionic main restricted universe multiverse 
+deb https://mirrors.tuna.tsinghua.edu.cn/debian/ stable main  
+deb-src https://mirrors.tuna.tsinghua.edu.cn/debian/ stable main
