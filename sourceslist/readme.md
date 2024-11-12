@@ -1,4 +1,4 @@
-源数据变更
+镜像源数据变更
 
 赋予权限
 chmod +x sourceslist.sh
