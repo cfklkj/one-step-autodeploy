@@ -1,0 +1,11 @@
+# class
+# proxy='http://192.168.11.10:7890'
+# proxy='http://user:pass@192.168.11.10:7890'    
+# proxy='socks4://192.168.11.10:7890'
+# proxy='socks5://192.168.11.10:7890'
+# proxy='socks://192.168.11.10:7890' 
+proxy='http://192.168.5.66:10809'
+export http_proxy=$proxy
+export https_proxy=$proxy
+export no_proxy="localhost,127.0.0.1,::1,*.flys.fun" 
+
