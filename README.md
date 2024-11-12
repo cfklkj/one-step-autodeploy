@@ -9,5 +9,6 @@ AutoDeploy 是一个一键式部署项目，旨在简化和自动化应用程序
 
 开始使用：
 1. 克隆此仓库到本地。
-2. 配置 `.github/workflows/deploy.yml` 文件，指定部署目标和环境。
-3. 提交代码并推送到 GitHub，GitHub Actions 将自动触发部署流程。
+ git clone https://github.com/cfklkj/one-step-autodeploy.git checkout -b dev-btc
+ or wget https://github.com/cfklkj/one-step-autodeploy/archive/refs/heads/dev-btc.zip
+2. 查看分支的readme.md 指引
